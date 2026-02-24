@@ -1,8 +1,7 @@
-# MLRU++: Multiscale Lightweight Residual UNETR++ with Attention for Efficient 3D Medical Image Segmentation
-
+# GLaMur: A Gated Linear Multiscale Residual U-Net for 3D Medical Image Segmentation
 
 ## Network Design
-![GLaMur Network](media/MLR.png)
+![GLaMur Network](miccaid.png)
 
 
 
