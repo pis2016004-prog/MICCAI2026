@@ -46,7 +46,7 @@ bash training_scripts/run_training_tumor.sh
 
 ## Evaluation
 
-The checkpoints are avilable here [!(https://drive.google.com/drive/folders/1D_yXZGsHCjAWLHMMnQKAmtKpefv-dzx3?usp=sharing)]
+The checkpoints are avilable here [!([https://drive.google.com/drive/folders/1D_yXZGsHCjAWLHMMnQKAmtKpefv-dzx3?usp=sharing](https://drive.google.com/drive/folders/1H3ZpKS_x_-uqyBV-ldQzRfvr7fIw-OFI?usp=sharing))]
 
 
 
