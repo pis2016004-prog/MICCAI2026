@@ -1,7 +1,7 @@
 # GLaMur: A Gated Linear Attentive Multiscale Residual U-Net for 3D Medical Image Segmentation
 
 ## Network Design
-![GLaMur Network](/media/final.png)
+![GLaMur Network](./media/final.png)
 
 
 
