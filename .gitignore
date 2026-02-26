@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+
+# training outputs / checkpoints
+output*/
+outputs*/
+logs*/
+*.log
+*.pth
+*.pt
+*.ckpt
+*.model
+*.npz
+
+# data (adjust if needed)
+data*/
+datasets*/
+*.nii
+*.nii.gz
+
+# venv / conda
+venv/
+.venv/
